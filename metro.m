@@ -3,7 +3,7 @@ function [E,t] = metro()
 % metro rail line.  Positions on the line are indexed by x = 1:1001, where
 % 1 marks the beginning and 1001 marks the end. We compute tfinal, the time
 % to reach the destination, and E, the total energy required for the trip,
-% as a function of M, the mass of the train, and alpha, beta and gamma, 
+% as a function of M, the mass of the train, and alpha, beta and gamma,  
 % which are coefficients describing the resistance from the track and air.
 close all;
 tic;
