@@ -1,17 +1,18 @@
 # traincontrol
-Stochasticising a deterministic Matlab train control model
-
-Institute for Risk and Uncertainty Thinkover Series
-
-Risk Clinic: Stochasticising a Train Control Model
-
-Hongbo Ye
-School of Engineering
-
-12:30 pm, Tuesday, 21 May 2019
-Risk Institute Seminar Room
-Institute for Risk and Uncertainty
-Chadwick Building, University of Liverpool
+Stochasticising a deterministic Matlab train control model  
+  
+Institute for Risk and Uncertainty Thinkover Series  
+  
+Risk Clinic: Stochasticising a Train Control Model  
+  
+Hongbo Ye  
+School of Engineering  
+  
+12:30 pm, Tuesday, 21 May 2019  
+Risk Institute Seminar Room  
+Institute for Risk and Uncertainty  
+Chadwick Building, University of Liverpool  
+  
 Abstract: Transportation engineers have created a Matlab code for controlling the movement of a train along its scheduled route for optimum efficiency, but their model is deterministic with no accounting for the stochastic variation in the passenger load or local weather conditions that influence performance.  This thinkover will explore how we can edit the model within Matlab to take account of these stochastic factors to test and evaluate the movement controller in a more realistic setting.
 Lunch will be provided.  Please register at https://forms.gle/xvJuEV7SqU6JUbQX8. 
 Files (available at https://sites.google.com/site/riskthinkover/home/yetraincontrol) 
