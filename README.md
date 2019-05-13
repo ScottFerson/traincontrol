@@ -1,7 +1,7 @@
 # traincontrol
-### Stochasticising a deterministic Matlab train control model (Thinkover Series)  
+### Thinkover Series
    
-## Risk Clinic: Stochasticising a Train Control Model  
+## Risk Clinic: Stochasticising a Matlab Train Control Model  
   
 Hongbo Ye  
 School of Engineering  
@@ -14,8 +14,8 @@ Chadwick Building, University of Liverpool
 Abstract: Transportation engineers have created a Matlab code for controlling the movement of a train along its scheduled route for optimum efficiency, but their model is deterministic with no accounting for the stochastic variation in the passenger load or local weather conditions that influence performance.  This thinkover will explore how we can edit the model within Matlab to take account of these stochastic factors to test and evaluate the movement controller in a more realistic setting.
 Lunch will be provided.  Please register at https://forms.gle/xvJuEV7SqU6JUbQX8. 
 Files (available at https://sites.google.com/site/riskthinkover/home/yetraincontrol) 
-     metro.m : simple deterministic model without braking
-     metro.slx : early implementation in Simulink 
+>     metro.m : simple deterministic model without braking
+>      metro.slx : early implementation in Simulink 
      metro0.m : version that made the graphs on the slides
      train.m : deterministic model with braking
      data.mat : lookup table data needed by train.m
